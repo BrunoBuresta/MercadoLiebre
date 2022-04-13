@@ -212,28 +212,37 @@ h2 {
 }
 /* <----- DESKTOP------> */
 @media (min-width:769px) {
-    .productoTotal {
-        box-shadow: 0px 0px 10px rgb(100, 100, 100);
-    }
     .productoTotal{
+        box-shadow: 0px 0px 10px rgb(100, 100, 100);
         width: 22%;
         justify-content: space-around;
     }
     .tarjetas{
         width: 30%;
-        font-size: 18px;
+        font-size: 50px;
+    }
+    .cuadroSearchBar{
+        font-size: 50px;
+        margin-top: 175px;
     }
     .loginBarLiEspacio{
         width:20% ;
     }
     h2{
-        font-size: 50px;
+        font-size: 70px;
     }
-    p{
-        font-size: 20px;
+    .loginBarLi{
+        font-size: 60px;
+        padding: 20px;
+
     }
+    .loginBarLia{
+        font-size: 60px;
+        padding: 20px;
+    }
+    
     h4{
-        font-size: 25px;
+        font-size: 50px;
     }
     footer{
         display: flex;
@@ -251,4 +260,18 @@ h2 {
         transform: rotate(-90deg);
         animation: transform, 0,5s;
     }
-} 
+    .precio{
+        font-size: 50px;
+
+    }
+    .descripcion{
+        font-size: 50px;
+
+    }
+    .descuento{
+        font-size: 50px;
+    }
+    p{
+        font-size: 50px;
+    }
+}

@@ -1,6 +1,6 @@
 header {
     width: 100vw;
-    height: 25vw;
+    height: 15vw;
     background-color: #EAC926;
 }
 
@@ -14,4 +14,16 @@ body {
     margin: 0px;
     font-family: 'Roboto';
     background-color: #ebebeb;
+}
+input{
+    font-size: 50px;
+}
+button{
+    font-size: 50px;
+}
+select{
+    font-size: 50px;
+}
+label{
+    font-size: 50px;
 }
