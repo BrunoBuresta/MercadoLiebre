@@ -1,0 +1,17 @@
+header {
+    width: 100vw;
+    height: 25vw;
+    background-color: #EAC926;
+}
+
+.logo {
+    background-position: left top;
+    width: 40%;
+    margin: 1rem;
+}
+body {
+    /* hace que todo no tenga el margen */
+    margin: 0px;
+    font-family: 'Roboto';
+    background-color: #ebebeb;
+}
