@@ -219,30 +219,9 @@ h2 {
     }
     .tarjetas{
         width: 30%;
-        font-size: 50px;
-    }
-    .cuadroSearchBar{
-        font-size: 50px;
-        margin-top: 175px;
     }
     .loginBarLiEspacio{
         width:20% ;
-    }
-    h2{
-        font-size: 70px;
-    }
-    .loginBarLi{
-        font-size: 60px;
-        padding: 20px;
-
-    }
-    .loginBarLia{
-        font-size: 60px;
-        padding: 20px;
-    }
-    
-    h4{
-        font-size: 50px;
     }
     footer{
         display: flex;
@@ -260,18 +239,4 @@ h2 {
         transform: rotate(-90deg);
         animation: transform, 0,5s;
     }
-    .precio{
-        font-size: 50px;
-
     }
-    .descripcion{
-        font-size: 50px;
-
-    }
-    .descuento{
-        font-size: 50px;
-    }
-    p{
-        font-size: 50px;
-    }
-}
