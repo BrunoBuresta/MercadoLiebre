@@ -216,6 +216,7 @@ h2 {
         box-shadow: 0px 0px 10px rgb(100, 100, 100);
         width: 22%;
         justify-content: space-around;
+        animation: all, 1s; 
     }
     .tarjetas{
         width: 30%;
@@ -235,8 +236,28 @@ h2 {
     .cajaFootercopyright{
         width: 100%;
     }
-    .productoSemi .camioncito:hover{
+    .productoSemi{
+        animation: all, 0.5s;
+    }
+    .camioncito:hover{
         transform: rotate(-90deg);
-        animation: transform, 0,5s;
     }
+    .escudo {
+        transition: all 1s;
+      }
+      .escudo:hover {
+        color: #EAC926;
     }
+    .regalo {
+        transition: all 1s;
+      }
+      .regalo:hover {
+        color: #EAC926;
+    }
+    .tarjeta {
+        transition: all 1s;
+      }
+      .tarjeta:hover {
+        color: #EAC926;
+    }
+}

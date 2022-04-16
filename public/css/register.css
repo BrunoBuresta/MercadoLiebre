@@ -1,12 +1,12 @@
 header {
     width: 100vw;
-    height: 15vw;
+    height: 10vw;
     background-color: #EAC926;
 }
 
 .logo {
     background-position: left top;
-    width: 40%;
+    width: 30%;
     margin: 1rem;
 }
 body {
